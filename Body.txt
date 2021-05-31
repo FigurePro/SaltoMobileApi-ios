@@ -1,0 +1,1 @@
+apikey=3%5FnHh1rdsQ9v8WTUvRNFtOJS1v5nPAl6nqTxbzMsVCckVqD5QN7HsXRu%5FFKqUp5kjw&format=json&gmid=FiHdP76s%2FQ0U732WbXM%2BqU6ZjJbWDKM3%2FCqYHLJukuc%3D&httpStatusCodes=false&include=profile%2C%20data&loginID=<USER>&password=<PASS>=ios%5Fswift%5F1%2E1%2E5&targetEnv=mobile&ucid=lMDlHxknpXEVKM9OzIdlFw%3D%3D

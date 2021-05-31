@@ -1,0 +1,9 @@
+Host: accounts.eu1.gigya.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Salto/2865 CFNetwork/1240.0.4 Darwin/20.5.0
+Connection: keep-alive
+Accept: */*
+Accept-Language: fr-fr
+Content-Length: 320
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
